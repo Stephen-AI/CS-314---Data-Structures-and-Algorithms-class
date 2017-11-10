@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nm\ amt
+comment0.target=Account(java.lang.String,\ java.lang.Integer)
+comment1.params=nm\ amt
+comment1.target=Account\ account(java.lang.String,\ java.lang.Integer)
+comment2.params=
+comment2.target=java.lang.String\ name()
+comment3.params=
+comment3.target=java.lang.Integer\ amount()
+comment4.params=x
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=x
+comment5.target=int\ compareTo(Account)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
