@@ -1,0 +1,47 @@
+JOURNEY              ALGORITHM            NODE COUNT           PATHLENGTH           
+
+laredo-haskell       Dijkstra             63                   482                  
+
+laredo-haskell       Prim                 63                   633                  
+
+laredo-haskell       A*-dist              13                   482                  
+
+laredo-haskell       A*-halfass           25                   482                  
+
+laredo-haskell       A*-zip               45                   482                  
+
+laredo-haskell       A*-randombs          25                   482                  
+
+laredo-haskell       A*-randomlies        58                   805                  
+ 
+
+dumas-corsicana      Dijkstra             63                   467                  
+
+dumas-corsicana      Prim                 63                   725                  
+
+dumas-corsicana      A*-dist              10                   467                  
+
+dumas-corsicana      A*-halfass           24                   467                  
+
+dumas-corsicana      A*-zip               32                   467                  
+
+dumas-corsicana      A*-randombs          21                   467                  
+
+dumas-corsicana      A*-randomlies        21                   580                  
+ 
+
+austin-muleshoe      Dijkstra             63                   452                  
+
+austin-muleshoe      Prim                 63                   501                  
+
+austin-muleshoe      A*-dist              11                   452                  
+
+austin-muleshoe      A*-halfass           37                   452                  
+
+austin-muleshoe      A*-zip               58                   452                  
+
+austin-muleshoe      A*-randombs          38                   452                  
+
+austin-muleshoe      A*-randomlies        22                   492                  
+ 
+
